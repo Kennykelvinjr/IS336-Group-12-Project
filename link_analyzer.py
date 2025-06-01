@@ -111,8 +111,8 @@ FORM_TEMPLATE = '''
     </style>
 </head>
 <body>
-    <h1>AI-Powered Link Analyzer</h1>
-    <p>Paste your WhatsApp messages below to analyze links:</p>
+    <h1>Link Analyzer Tool</h1>
+    <p>Paste your messages below to analyze links:</p>
     <form method="post">
         <textarea name="messages" rows="10" cols="50" placeholder="Paste your messages here..."></textarea><br>
         <input type="submit" value="Analyze">
